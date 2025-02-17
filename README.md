@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently exploring new ideas and improving my skills in technology and problem-solving.<br><br>👯 I’m looking to collaborate on interesting and creative projects that push boundaries.<br><br>🤝 I’m looking for help with learning new perspectives and approaches to tackle challenging problems.<br><br>🌱 I’m currently learning better ways to balance life, tech, and creativity.<br><br>💬 Ask me about anything tech, life hacks, or just random fun facts!<br><br>⚡ Fun fact, I’ve got a knack for turning chaos into cool things—call me a Menace!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-thakur&label=Profile%20views&color=ff0f63&style=flat" alt="manas-thakur" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menace_thakur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manasthakur30/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Menace_thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurmanas168@gmail.com) 
