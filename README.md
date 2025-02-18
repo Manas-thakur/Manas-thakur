@@ -3,9 +3,6 @@
 <img hight="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 </div>
 
-
-
-
 # About ME 💬 :
 
 ### - I'm 19 years old AI & Machine Learning Engineer and Little bit of Full Stack Engineer, known as Menace 
@@ -25,12 +22,9 @@ Hehe 😉
 - ✨ Hackathons & Events
 - ✨ Playing Guitar
 </br>
-</br>
-</br>
-
-
-
+  
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets\15682.gif">
