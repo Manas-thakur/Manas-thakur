@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old AI & Machine Learning Enthusiast and Little bit of Full Stack Engineer, known as Menace 
+### - I'm 19 years old AI & Machine Learning Engineer and Little bit of Full Stack Engineer, known as Menace 
 Hehe 😉
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
