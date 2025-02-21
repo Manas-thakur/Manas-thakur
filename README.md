@@ -10,7 +10,6 @@ Hehe 😉
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
 
-
 ### - Learning :
 - ✨ Computer Vision
 - ✨ Large Language Models
