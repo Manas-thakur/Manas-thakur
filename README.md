@@ -1,6 +1,6 @@
 # Hemloss!! 👋
 <div align="LEFT">
-<img hight="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+<img hight="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> 
 </div>
 
 # About ME 💬 :
