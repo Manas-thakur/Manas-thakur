@@ -34,14 +34,6 @@ Hehe 😉
 ![](https://github-readme-stats.vercel.app/api?username=manas-thakur&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manas-thakur&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manas-thakur&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/manas-thakur/github-readme-stats)
-
-
----
-
 ![Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manas-thakur&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 ---
