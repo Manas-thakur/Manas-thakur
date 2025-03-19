@@ -5,7 +5,7 @@
 
 # About ME 💬 : 
 
-### - I'm 19 years old Ai Agent Developer and Little bit of Full Stack Engineer, known as Menace 
+### - I'm 19 years old Ai Agent Developer and Little bit of Full Stack Engineer, known as Menace
 Hehe 😉
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
