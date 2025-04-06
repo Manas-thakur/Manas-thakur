@@ -28,7 +28,7 @@ Hehe 😉
 
 </br>
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets\15682.gif">
+[//]: <img hight="400" width="500" alt="GIF" align="right" src="assets\15682.gif">
 <p align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
