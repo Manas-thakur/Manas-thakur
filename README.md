@@ -67,6 +67,11 @@ Hehe 😉
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
+  <img src="https://streak-stats.demolab.com?user=manas-thakur&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-thakur&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
 ![Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manas-thakur&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 ---
