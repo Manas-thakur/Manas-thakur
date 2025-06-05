@@ -1,12 +1,19 @@
 # 👋
-<div align="left">
-  I'm a 19-year-old AI Agent Developer and a bit of a Full Stack Engineer, known as Menace.
-</div>
-<div align="right">
-  <img height="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
-</div>
+
+<table>
+  <tr>
+    <td align="left" style="vertical-align:middle;">
+      I'm a 19-year-old AI Agent Developer and a bit of a Full Stack Engineer, known as Menace.
+    </td>
+    <td align="right" width="160" style="vertical-align:middle;">
+      <img height="60" width="150" alt="GIF" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+    </td>
+  </tr>
+</table>
 
 ### - 📄 Check out my <a href="https://manas-thakur.github.io/Resume/resume/resume.pdf" target="_blank">Resume</a>
+
+![image1](image1)
 
 [//]: <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
   
