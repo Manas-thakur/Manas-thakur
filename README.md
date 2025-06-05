@@ -5,24 +5,11 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old Ai Agent Developer and Little bit of Full Stack Engineer, known as Menace
-
+### - I'm 19 years old Ai Agent Developer
 
 ### - 📄 Check out my <a href="https://manas-thakur.github.io/Resume/resume/resume.pdf" target="_blank">Resume</a>
 
 [//]: <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
- 
-### - Learning :
-- ✨ Computer Vision
-- ✨ Large Language Models
-- ✨ Data Structures & Algorithms
-
-### - Hobbies & Interests : 
-- ✨ Problem Solving
-- ✨ Tech Innovation
-- ✨ Hackathons & Events
-- ✨ Playing Guitar
-</br>
   
 # Languages & Tools 👨‍💻 🛠:
 
