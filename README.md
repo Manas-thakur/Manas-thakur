@@ -1,11 +1,10 @@
-# Hemloss!! 👋
-<div align="LEFT">
-<img hight="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+# 👋
+<div align="left">
+  I'm a 19-year-old AI Agent Developer and a bit of a Full Stack Engineer, known as Menace.
 </div>
-
-# About ME 💬 :
-
-### - I'm 19 years old Ai Agent Developer
+<div align="right">
+  <img height="" width="150" alt="GIF" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+</div>
 
 ### - 📄 Check out my <a href="https://manas-thakur.github.io/Resume/resume/resume.pdf" target="_blank">Resume</a>
 
