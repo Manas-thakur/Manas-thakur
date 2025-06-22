@@ -12,6 +12,7 @@
 </table>
 
 ### - 📄 Check out my <a href="https://manas-thakur.github.io/Resume/resume/resume.pdf" target="_blank">Resume</a>
+### - 🌐 Check out my <a href="https://menace-ai.vercel.app" target="_blank">Website</a>
 
 
 [//]: <img hight="400" width="500" alt="GIF" align="right" src="assets\1936.gif">
