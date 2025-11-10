@@ -67,6 +67,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menace_thakur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manasthakur30/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Menace_thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurmanas168@gmail.com)
 
 ## 📈 Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/{manas-thakur}/count.svg)
+[![Manas Thakur profile views](https://u8views.com/api/v1/github/profiles/94138492/views/day-week-month-total-count.svg)](https://u8views.com/github/Manas-thakur)
 
 *************
