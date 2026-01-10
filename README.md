@@ -11,7 +11,6 @@
   </tr>
 </table>
 
-### - 📄 Check out my <a href="https://manas-thakur.github.io/Resume/resume/resume.pdf" target="_blank">Resume</a>
 ### - 🌐 Check out my <a href="https://menace-ai.vercel.app" target="_blank">Website</a>
 
 
